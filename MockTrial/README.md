@@ -1,10 +1,13 @@
 ## Blockchain-Backed Digital Signatures Mock Trial 
 
+**The Mock Trial in intended to test the "admissibility" and "enforceability" of Blockchain based digital signatures. Time and resource permitting, variations of the fact pattern and technology may also permit testing applicability of this technology for creating valid notarizations, legal attestations and legitimate informed consent.  It is hoped and intended that a tangible result of the Mock Trial will be a one page laminated sheet (and PDF) for trial lawyers who need to litigate this type of evidence and we want to focus the other side of the page on education and considerations for judges who adjudicate these cases.**
+
 General inquiries for the [Mock Trial referenced in the research statement](https://law.mit.edu/contributing-our-open-source-projects) include whether the following technologies individually or in any combination provide any measurable new benefits, costs or risks:
 
 * Cryptographic digital signatures on otherwise standard web-based contracts
 * Using cryptographic keys of a blockchain address for digital signatures on otherwise standard web-based contracts
 * Using cryptographic keys in the physical possession of the person executing a digital signature on their own behalf
+
 
 **The following contextual scenarios represent a nexus point between legal "fact patterns" and technical "use cases".**  
 For more information on engineering workflow, business rules and business process diagrams for cross-boundry integration of business, legal and technical dimensions of systems, see: https://github.com/mitmedialab/CoreID/blob/master/diagrams/README.md  For more infomation on the composition of fact patterns that produce predictable legal results, see the use of Bar Exam essay questions in the context of identity and authorization technical specification drafting, here: https://github.com/KantaraInitiative/wg-uma/wiki/UMA-Legal:-Mapping-Between-UMA-and-Agency-Law#solving-agency-law-fact-patterns-and-hypothetical-situations 
