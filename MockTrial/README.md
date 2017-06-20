@@ -8,9 +8,9 @@ General inquiries for the [Mock Trial referenced in the research statement](http
 * Using cryptographic keys of a blockchain address for digital signatures on otherwise standard web-based contracts
 * Using cryptographic keys in the physical possession of the person executing a digital signature on their own behalf
 
+## Identifying fact specific contexts to establish predictable legal outcomes
 
-**The following contextual scenarios represent a nexus point between legal "fact patterns" and technical "use cases".**  
-For more information on engineering workflow, business rules and business process diagrams for cross-boundry integration of business, legal and technical dimensions of systems, see: https://github.com/mitmedialab/CoreID/blob/master/diagrams/README.md  For more infomation on the composition of fact patterns that produce predictable legal results, see the use of Bar Exam essay questions in the context of identity and authorization technical specification drafting, here: https://github.com/KantaraInitiative/wg-uma/wiki/UMA-Legal:-Mapping-Between-UMA-and-Agency-Law#solving-agency-law-fact-patterns-and-hypothetical-situations 
+The following contextual scenarios represent a nexus point between legal "fact patterns" and technical "use cases". For more information on engineering workflow, business rules and business process diagrams for cross-boundry integration of business, legal and technical dimensions of systems, see: https://github.com/mitmedialab/CoreID/blob/master/diagrams/README.md  For more infomation on the composition of fact patterns that produce predictable legal results, see the use of Bar Exam essay questions in the context of identity and authorization technical specification drafting, here: https://github.com/KantaraInitiative/wg-uma/wiki/UMA-Legal:-Mapping-Between-UMA-and-Agency-Law#solving-agency-law-fact-patterns-and-hypothetical-situations 
 
 ### Contextual Scenario: Blockchain-Pegged Digital Signatures for Otherwise Standard Digital Transactions
 
