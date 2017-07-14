@@ -1,10 +1,23 @@
 # law.MIT.edu
 
-law.MIT.edu Research and Development
+This open public research and development repository explores the emerging field of computational law and legal informatics as social science, an emerging business capability and a new technology tool.   This site is curated by MIT Media Lab's Dazza Greenwood as part of Prof. Alex "Sandy" Pentland's MIT Human Dynamics Lab work on Social Physics and Connection Science, with emphasis on the legal and policy dimensions of big data and personal data markets and ecologies.  We are fortunate to have and grateful for our partnership and collaboration with Professors of Law Gabriel Teninbaum and Jonathan Askin.
 
-* **Main Site: http://law.MIT.edu**
-* GitHub Pages: http://humandynamics.github.io/law.MIT.edu
-* GitHub Wiki: https://github.com/HumanDynamics/law.MIT.edu/wiki
+## Daniel "Dazza" Greenwood
+Visiting Scientist, MIT Media Lab  
+Founder, CIVICS.com
+
+## Gabriel Teninbaum, 
+Visiting Professor of Law, MIT Media Lab/Human Dynamics Group (2017-2018)       
+Suffolk University Law School (Office: Sargent Hall, Suite 320)    
+Director, Institute on Law Practice Technology & Innovation     
+Director, Legal Technology & Innovation Concentration    
+Visiting Fellow, Yale Law School, Information Society Project     
+
+## Jonathan Askin
+Visiting Professor of Law, MIT Media Lab/Human Dynamics Group (2016-2017)    
+Founder/Director, Brooklyn Law Incubator & Policy Clinic  
+Faculty Chair and Innovation Catalyst, Center for Urban Business Entrepreneurship  
+
 
 # Current Activities
 
