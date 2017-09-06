@@ -13,12 +13,14 @@
 
 **Comments** 
 
-New York based MIT-Law Collaborator Caitlin Stilin-Rooney noted:  There are a different attributes of ones identity that individual chocies such as the brands or designers that one wear (ig. Supreme, KITH, Louie Vuitton) The economics of identity come into play when the brands we wear or the clubs that we are part of add value to a certain business. 
+New York based MIT-Law Collaborator Caitlin Stilin-Rooney noted that "There are different attributes of ones identity that that are tied into eonomics:
 
+* Brands (Supreme, KITH, Louis Vuitton) 
+* Clubs (Country clubs, politial parties, school clubs etc) 
 * An endorsement 
 * Physical location and "check ins"
 * Purchase behavior 
-* Social Network
+* Social network
 
 New York based software engineer Brian McFeeley noted: "If you aren't paying, you are the product. The more time I spend thinking about it the more I feel like services like the Internet in the large but also to an extent social networking should probably be a utility There's a pretty fundamental perverse incentive for a company that acts as a discovery agent for content to also transact on the content that it displays to you I think I do need something that's really interesting to think about in the context of the Internet but ultimately I think it's something of a lost cause without a stronger means of ownership for an individual over their online presence Sorry I am dictating into my phone since I'm walking rem and it's being translated poorly I think identity is."
 
