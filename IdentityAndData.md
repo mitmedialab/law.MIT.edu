@@ -1,8 +1,11 @@
 # FinTechConnect FlashTalk
 
+> Let's face it - our digital identity and personal data are important economic and practical resources of ever increasing value. 
+
+<a href= "https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html"><img width="706" alt="fintechconnectslide" src="https://raw.githubusercontent.com/mitmedialab/law.MIT.edu/gh-pages/images/FinTechConnectSlide.png"></a>
+
 * This site is based on a August 31 FinTechConnect Fashtalk which can be found at: [https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html](https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html)
 
-> Let's face it - our digital identity and personal data are important economic and practical resources of ever increasing value. 
 
 # Identity as an Asset
 
