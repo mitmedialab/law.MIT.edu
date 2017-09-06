@@ -1,6 +1,6 @@
 # FinTechConnect FlashTalk
 
-<a href= "https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html"><img width="706" alt="fintechconnectslide" src="https://raw.githubusercontent.com/mitmedialab/law.MIT.edu/gh-pages/images/FinTechConnectSlide.png"></a>
+<a href= "https://law.mit.edu/blog/fintechconnect-identity-flashtalk"><img width="706" alt="fintechconnectslide" src="https://raw.githubusercontent.com/mitmedialab/law.MIT.edu/gh-pages/images/FinTechConnectSlide.png"></a>
 
 * This site is based on a August 31 FinTechConnect Fashtalk which can be found at: [https://law.mit.edu/blog/fintechconnect-identity-flashtalk](https://law.mit.edu/blog/fintechconnect-identity-flashtalk)
 
@@ -46,4 +46,8 @@ New York based software engineer Brian McFeeley noted: "If you aren't paying, yo
 
 ## Relevant Materials
 
-* https://law.mit.edu/blog/fintechconnect-identity-flashtalk
+* This Page: https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html
+* law.MIT Blog Post: https://law.mit.edu/blog/fintechconnect-identity-flashtalk
+
+------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kfrv-hBGmSo" frameborder="0" allowfullscreen></iframe>
