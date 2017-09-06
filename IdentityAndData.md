@@ -1,6 +1,6 @@
-# 08/2017 FinTechConnect FlashTalk
+# FinTechConnect FlashTalk
 
-* [https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html](https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html)
+* This site is based on a August 31 FinTechConnect Fashtalk which can be found at: [https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html](https://mitmedialab.github.io/law.MIT.edu/IdentityAndData.html)
 
 > Let's face it - our digital identity and personal data are important economic and practical resources of ever increasing value. 
 
@@ -21,7 +21,7 @@ New York based software engineer Brian McFeeley noted: "If you aren't paying, yo
 
 > Thriving industries exist to collect, track and trade personal data while business and legal models respecting the rights and expectations of all the stakeholders (including you as a consumer) have not evolved to keep pace.
 
-# Economic and Legal Models
+# Current Models
 
 > The rise of "smart" phones, homes and cities accelerated by blockchain, smart contracts and mass-automation offer new modes for control, methods for valuation and mechanisms for exchange of key rights to this new asset type.
 
