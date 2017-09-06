@@ -19,7 +19,6 @@ New York based MIT-Law Collaborator Caitlin Stilin-Rooney noted
 There are a different attributes of ones identity that individual chocies such as the brands or designers that one wear (ig. Supreme, KITH, Louie Vuitton) The economics of identity come into play when the brands we wear or the clubs that we are part of add value to a certain business. 
 
 
-* brand eg Supreme, Kith
 ** an endorsement 
 ** physical location and "check ins"
 ** purchase behavior 
