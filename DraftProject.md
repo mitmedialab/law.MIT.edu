@@ -1,8 +1,7 @@
 1. What are the right legal models for this type of identity service focused on refugees?  how would the legal identity relate, if at all, to a government credential accepted for KYC and immigration etc? 
 
-In the context of a Blockchain Border Bank:
-1. We must know the government's perspective on the population that we are working with 
-2. In the case of the BBB "refugees" vs illegal immigrants or citizens with questioned status by host country
+a. We must know the government's perspective on the population that we are working with 
+b. In the case of the BBB there is a distinction made between "refugees" vs illegal immigrants or citizens with questioned status by host country
 
 2. What is the business model?  A non-profit is in a position to fund and create or maintain the expensive and complex service types. How can this type of technology service and business operation be set up in a workable yet appropriate manner to provide this type of basic human identity  service in a way that is consistent with the public interest needs of regular people - and most challenging of all - for the resource starved and vulnerable refugee community? Especially with slow pace and heavy hype and absolute need for profit in a big way are not necessarily consistent with the priorities and needs expected from such a service
 
