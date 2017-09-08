@@ -1,3 +1,5 @@
+A lot of what was going on with this project involved developing the technology approach and we had great input from business legal and microfinance experts. The main lessons learned centered on the difficulty of properly meeting practical and economic and social challenges to test or deploy a workable and potentially maintainable implementation.  
+
 1. What are the right legal models for this type of identity service focused on refugees?  how would the legal identity relate, if at all, to a government credential accepted for KYC and immigration etc? 
 
 * We must know the government's perspective on the population that we are working with 
