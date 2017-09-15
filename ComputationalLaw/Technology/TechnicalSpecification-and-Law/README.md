@@ -1,14 +1,15 @@
-# Links and Resources
+# README
 
 The following is a listing of the URL and browser title for some of the resources gathered in this directory.  
 
 ------------------
 
-**What Can I Do?** 
-
-> One helpful contribution would be for somebody(s) to scan through the various files collected in this directory and subdirectories and add the URL+Title to this README.md file for any files you found especially important/relevant/timely/etc. Just make a ["pull request"](https://help.github.com/articles/about-pull-requests) to offer your additions. 
+**Making Contributions:** This directory is still in an early, formative state so at this stage any and all suggested contributions are invited and welcome to help identify information to include.  Learn all about how and what to share in our [CONTRIBUTING.md](https://github.com/mitmedialab/law.MIT.edu/blob/gh-pages/CONTRIBUTING.md) file. 
+* One helpful contribution would be for somebody(s) to scan through the various files collected in this directory and subdirectories and add the URL+Title to this README.md file for any files you found especially important/relevant/timely/etc. Just make a ["pull request"](https://help.github.com/articles/about-pull-requests) to offer your additions. 
 
 -------------------
+
+## Links to Resources
 
 How to Pick (or Improvise) the Right Schema.org Markup for Your Local Business | LocalVisibilitySystem.com
 http://www.localvisibilitysystem.com/2014/06/30/how-to-pick-or-improvise-the-right-schema-org-markup-for-your-local-business/
