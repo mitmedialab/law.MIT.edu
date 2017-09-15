@@ -1,7 +1,5 @@
 # What and How to Contribute
 
-## What Contributions are Appropriate?
-
 **Contribute Missing and Corrected Links**
 
 It is invaluable yet impossible to maintain current, complete and correct compilations of content and links to relevant information available on the web (publications, events, apps, data, services, etc). 
@@ -21,7 +19,7 @@ We don't necessarily publish all content but appreciate the opportunity to consi
 
 To propose contributions of new or edited content, just grab a free GitHub account and make a ["pull request"](https://help.github.com/articles/about-pull-requests) and if it's a good fit, we will [merge](https://help.github.com/articles/merging-a-pull-request) the contribution to make it part of our repository. 
 
-## Share Questions and Ideas
+**Share Questions and Ideas**
 
 Question that occur to you while exploring can be a very constructive contribution.  If you have the question, there is a reasonable chance others do too and good questions are valuable whether or not there is a direct answer available.  
 
@@ -30,5 +28,7 @@ Likewise, you are welcome to share your own observations about emerging themes/t
 **How Do I Pose Questions and Ideas?**
 
 The best way to share your questions, ideas and other comments is by creating an ["issue"](https://help.github.com/articles/about-issues).  Adding the most relevant [label(s)](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests) to your issue can make it much easier to discover, understand and address.  
+
+**Create a New Issue Here:** [https://github.com/mitmedialab/law.MIT.edu/issues/new](https://github.com/mitmedialab/law.MIT.edu/issues/new)
 
 -------------------
