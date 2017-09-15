@@ -27,7 +27,7 @@ Likewise, you are welcome to share your own observations about emerging themes/t
 
 **How Do I Pose Questions and Ideas?**
 
-The best way to share your questions, ideas and other comments is by creating an ["issue"](https://help.github.com/articles/about-issues).  Adding the most relevant [label(s)](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests) to your issue can make it much easier to discover, understand and address.  
+The best way to share your questions, ideas and other comments is by creating an ["issue"](https://help.github.com/articles/about-issues).  Adding the most relevant [label(s)](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests) to your issue can make it much easier to discover, understand and address.  Our current labels can be found [here](https://github.com/mitmedialab/law.MIT.edu/labels).
 
 **Create a New Issue Here:** [https://github.com/mitmedialab/law.MIT.edu/issues/new](https://github.com/mitmedialab/law.MIT.edu/issues/new)
 
