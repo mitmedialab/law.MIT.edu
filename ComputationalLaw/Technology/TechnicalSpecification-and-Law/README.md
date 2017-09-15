@@ -1,6 +1,6 @@
 # README
 
-The following is a listing of the URL and browser title for some of the resources gathered in this directory.  
+This directory is for technical standards, guidelines defining the structuring, form, syntax, format or other technical aspects of law and legal resources including statutes, regulations, judicial holdings, contracts, notices and the like. 
 
 ------------------
 
@@ -10,6 +10,8 @@ The following is a listing of the URL and browser title for some of the resource
 -------------------
 
 ## Links to Resources
+
+**The following is a listing of the URL and browser title for some of the resources gathered in this directory.**
 
 How to Pick (or Improvise) the Right Schema.org Markup for Your Local Business | LocalVisibilitySystem.com
 http://www.localvisibilitysystem.com/2014/06/30/how-to-pick-or-improvise-the-right-schema-org-markup-for-your-local-business/
