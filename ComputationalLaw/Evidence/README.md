@@ -1,6 +1,6 @@
 # README
 
-This directory is for resources relating to the field and rules of law known as "Contracts" in the context of computational law. 
+This directory is for resources relating to the field and rules of law, procedure and practice known as "Evidence" in the context of computational law. 
 
 ------------------
 

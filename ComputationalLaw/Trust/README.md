@@ -1,6 +1,6 @@
 # README
 
-This directory is for resources relating to the field and rules of law known as "Contracts" in the context of computational law. 
+This directory is for law, legal practices and other resources relevant to the concept of "Trust" or "Trustworthiness" in the context of computational law. 
 
 ------------------
 

@@ -1,6 +1,6 @@
 # README
 
-This directory is for resources relating to the field and rules of law known as "Contracts" in the context of computational law. 
+This directory is for technology resources relating to use of JSON in the context of computational law. 
 
 ------------------
 
