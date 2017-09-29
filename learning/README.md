@@ -1,0 +1,1 @@
+This directory is for collaboratively created and shared Creative Commons and open source licensed learning and skill-building materials focused at the intersection of law or legal processes and technology.  
