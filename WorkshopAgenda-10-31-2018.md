@@ -20,9 +20,9 @@ AGENDA
 
 9:00-9:30   [30 min]  Opening & Introductions
 
-                      Sandy Pentland (10 mins)
+* Sandy Pentland (10 mins)
 
-                      Attendees introductions (20 mins)
+* Attendees introductions (20 mins)
 
 9:30-11:00  [90 min]  **Theme A: Implications for the business of law: is law like software?**
 
