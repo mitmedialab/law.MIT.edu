@@ -16,8 +16,6 @@ The following exampes illustrate how to map functions, actions and other events 
 ### Context: Expense Report
 * Roles: Consultant; Accountant; Payroll, etc from [http://www.agilemodeling.com/style/activityDiagram.htm](http://www.agilemodeling.com/style/activityDiagram.htm):
 
-<img src="https://github.com/mitmedialab/law.MIT.edu/blob/master/Diagrams/expenses.png">
-
 <img src="https://github.com/mitmedialab/law.MIT.edu/raw/gh-pages/Diagrams/expenses.png">
 
 
@@ -25,13 +23,13 @@ The following exampes illustrate how to map functions, actions and other events 
 
 * Roles: Customer; Sales; Legal; etc from [http://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/1804/What-is-a-Swimlane-Diagram.aspx](http://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/1804/What-is-a-Swimlane-Diagram.aspx)
 
-<img src="https://github.com/mitmedialab/CoreID/blob/master/diagrams/sales.png">
+<img src="https://github.com/mitmedialab/law.MIT.edu/raw/gh-pages/Diagrams/sales.png">
 
 ### Context: Student Registration
 
 *  Roles: Faculty Advisor, Student; Admin; etc, from [https://www.yworks.com/actions/imageviewer.php?img=studentRegistrationColors2.e03efb32.png&album=yfiles&maxWidth=800&maxHeight=760](https://www.yworks.com/actions/imageviewer.php?img=studentRegistrationColors2.e03efb32.png&album=yfiles&maxWidth=800&maxHeight=760): 
 
-<img src="https://github.com/mitmedialab/CoreID/blob/master/diagrams/registration.png">
+<img src="https://github.com/mitmedialab/law.MIT.edu/raw/gh-pages/Diagrams/registration.png">
 
 ## Use Same Approach for Legal Roles 
 
@@ -85,11 +83,11 @@ For many reasons it is useful and instructive to understand the roles and sequen
 
 Now consider the following ["User Managed Access" diagram](https://www.websequencediagrams.com/files/render?link=gnYlOf_cwh605AwcO-9i): 
 
-<img width="615" alt="fig1-highlevelprototcolflow" src="https://github.com/mitmedialab/CoreID/blob/master/diagrams/UMA-EarlySwimlane.png">
+<img width="615" alt="fig1-highlevelprototcolflow" src="https://github.com/mitmedialab/law.MIT.edu/raw/gh-pages/Diagrams/UMA-EarlySwimlane.png">
 
 Note that in this particular version, the person making the diagram chose not to be clear about which legal party was going to be responsible for the "authorization server" and for the "resource server".  In other versions, we made swimlane diagrams for each key business/legal scenario that involved a different legal/business "role" responsible for providing the auth and/or resource services.  This simply required taking the auth and resource server functions and actions identified in the diagram above and allocating them to the identified legal/business "roles" for each key identified scenario.  
 
 For context, in OAuth 2 and OIDC deployment scenarios, the same party may operates both the auth and resource servers and provides corresponding services to the resource owner, (such as with Google providing Google Docs and also the authorization services allowing Google users to grant third parties access of various types to see/change/etc Google Docs. Sometimes however these are services may be provided by different legal entities including one business unit of a "resource owner" company providing the service(s) to other business units of the same company.  
 
-The legal and business entity responsible for providing the "client" (app) was not identified in the diagram version above.  The first column is for the "resource owner" who is the "user" of the "client" app but is almost certainly not the legal party responsible for providing and maintaining the client app (or apps) operated by the user as part of the UMA/OAuth 2/OIDC flow shown by the SwimLane diagram.  For more info on the fundamentals of these roles, take another look at the OAuth 2 role-designations I shared with you before, available here: https://github.com/mitmedialab/CoreID/blob/master/diagrams/README.md (see the "Token Refresh Flow" and "Authorization Explicit Grant Flow" diagrams on this page for good examples of how we track OAuth 2 "roles" to "functions" and "actions" as part of a simplified cross-functional role/activity sequence diagram.)
+The legal and business entity responsible for providing the "client" (app) was not identified in the diagram version above.  The first column is for the "resource owner" who is the "user" of the "client" app but is almost certainly not the legal party responsible for providing and maintaining the client app (or apps) operated by the user as part of the UMA/OAuth 2/OIDC flow shown by the SwimLane diagram.  For more info on the fundamentals of these roles, take another look at the OAuth 2 role-designations I shared with you before, available here: https://github.com/mitmedialab/law.MIT.edu/raw/gh-pages/Diagrams/README.md (see the "Token Refresh Flow" and "Authorization Explicit Grant Flow" diagrams on this page for good examples of how we track OAuth 2 "roles" to "functions" and "actions" as part of a simplified cross-functional role/activity sequence diagram.)
 
