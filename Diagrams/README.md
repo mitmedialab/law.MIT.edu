@@ -18,6 +18,9 @@ The following exampes illustrate how to map functions, actions and other events 
 
 <img src="https://github.com/mitmedialab/law.MIT.edu/blob/master/Diagrams/expenses.png">
 
+<img src="https://github.com/mitmedialab/law.MIT.edu/raw/gh-pages/Diagrams/expenses.png">
+
+
 ### Context: Sales Flow
 
 * Roles: Customer; Sales; Legal; etc from [http://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/1804/What-is-a-Swimlane-Diagram.aspx](http://www.modernanalyst.com/Careers/InterviewQuestions/tabid/128/ID/1804/What-is-a-Swimlane-Diagram.aspx)
