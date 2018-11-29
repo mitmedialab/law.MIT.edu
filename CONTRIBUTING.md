@@ -2,7 +2,7 @@
 
 **Contribute Missing and Corrected Links**
 
-It is invaluable yet impossible to maintain current, complete and correct compilations of content and links to relevant information available on the web (publications, events, apps, data, services, etc). 
+It is invaluable yet all but impossible to maintain current, complete and correct compilations of content and links to relevant information available on the web (publications, events, apps, data, services, etc). 
 
 Please contribute links to missing information, whether the links help fill gaps or expand the scope of information resources currently linked to.  When you contribute new links, at minumum please include the URL and the name of the resource and if possible, also a short neutral summary of the resource is also very useful.
 
